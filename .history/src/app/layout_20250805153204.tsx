@@ -20,7 +20,7 @@ export default function RootLayout({
       <body className={inter.className}>
         <header className="bg-orange-500 text-white p-4">
           <nav className="flex justify-between items-center max-w-4xl mx-auto">
-            <h1 className="text-xl font-bold">🍔 Jk Lanches</h1>
+            <h1 className="text-xl font-bold">🍔 DeliveryLanches</h1>
             <ul className="flex gap-4">
               <li><Link href="/">Home</Link></li>
               <li><Link href="/produtos">Lanches</Link></li>
